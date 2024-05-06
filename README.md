@@ -1,6 +1,6 @@
 # ts-for-gir-local-example
 
-This example shows how `ts-for-gir` v4 can be used to generate and use the TypeScript types.
+This example shows how `ts-for-gir` v4 can be used to generate and use the TypeScript types using esbuild.
 
 ![Hello World GJS Gtk/Adwaita application](https://github.com/gjsify/ts-for-gir-local-tsc-example/assets/1073989/af49b7b8-48e3-4bb2-b051-03a000caf2ca)
 
