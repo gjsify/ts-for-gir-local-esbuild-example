@@ -1,4 +1,4 @@
-# ts-for-gir-local-example
+# ts-for-gir local esbuild example
 
 This example shows how `ts-for-gir` v4 can be used to generate and use the TypeScript types using esbuild.
 
