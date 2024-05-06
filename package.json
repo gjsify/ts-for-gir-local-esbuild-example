@@ -1,0 +1,17 @@
+{
+  "name": "ts-for-gir-local-tsc-example",
+  "description": "An example of how ts-for-gir can be used locally with self generated GIR types and the TypeScript compiler",
+  "scripts": {
+    "generate": "ts-for-gir generate Adw-1",
+    "build": "tsc",
+    "start": "gjs -m main.js"
+  },
+  "workspaces": [
+    "@types/*"
+  ],
+  "devDependencies": {
+    "@ts-for-gir/cli": "^4.0.0-beta.4",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.5"
+  }
+}

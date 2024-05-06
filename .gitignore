@@ -1,0 +1,10 @@
+# By ts-for-gir generated types
+@types/
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Build results
+main.js
+
